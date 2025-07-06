@@ -1,0 +1,1 @@
+A sleek and responsive calculator built using HTML, CSS, and JavaScript. The project features a clean, minimalist design focused on usability and simplicity. It supports basic arithmetic operations and showcases efficient DOM manipulation, event handling, and modern UI styling.
